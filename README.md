@@ -1,2 +1,0 @@
-# adolin.me
-personal site
